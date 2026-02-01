@@ -166,11 +166,11 @@ Scrivi: gioca | esci
 Simbolo: X
 Avversario: Giocatore2
 
- - | - | -
+- | - | -
 ---+---+---
- - | - | -
+- | - | -
 ---+---+---
- - | - | -
+- | - | -
 
 Tuo turno
 Inserisci riga (0-2): 1
