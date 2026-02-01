@@ -1,7 +1,4 @@
----
 
-
----
 
 <h1 id="tris-multiplayer---clientserver">Tris Multiplayer - Client/Server</h1>
 <p>Un’implementazione del classico gioco del tris in Java con architettura client-server. Due o più giocatori possono connettersi al server e giocare partite online con tracking delle statistiche.</p>
