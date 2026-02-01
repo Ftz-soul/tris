@@ -165,44 +165,36 @@ Scrivi: gioca | esci
 <pre><code>PARTITA INIZIATA
 Simbolo: X
 Avversario: Giocatore2
-
  - | - | -
 ---+---+---
  - | - | -
 ---+---+---
  - | - | -
-
 Tuo turno
 Inserisci riga (0-2): 1
 Inserisci colonna (0-2): 1
-
  - | - | -
 ---+---+---
  - | X | -
 ---+---+---
  - | - | -
-
 In attesa dell'avversario...
 </code></pre>
 <p><strong>Client 2 (O):</strong></p>
 <pre><code>PARTITA INIZIATA
 Simbolo: O
-Avversario: Giocatore1
-
+Avversario: Giocatore1 
  - | - | -
 ---+---+---
  - | - | -
 ---+---+---
  - | - | -
-
 In attesa dell'avversario...
-
  - | - | -
 ---+---+---
  - | X | -
 ---+---+---
  - | - | -
-
 Tuo turno
 Inserisci riga (0-2): 0
 Inserisci colonna (0-2): 0
@@ -210,7 +202,6 @@ Inserisci colonna (0-2): 0
 <h3 id="fine-partita">Fine Partita</h3>
 <p>Alla fine della partita, vengono mostrate le statistiche :</p>
 <pre><code>Hai vinto!
-
 ---------------------------
 Statistiche:
   Vittorie: 1
