@@ -216,6 +216,7 @@ Statistiche:
   Vittorie: 1
   Sconfitte: 0
   Pareggi: 0
+  
 ---------------------------
 
 Scrivi: gioca | esci
